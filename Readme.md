@@ -1,4 +1,5 @@
 ## Thank you for Choosing  this script. Make sure to join your discord for support https://discord.gg/rHejWvEecq
-# visit our docs page to install this script
+# visit our docs page to install this script : https://lz-scripts.gitbook.io/lzdocs
 Dependencies :
+
 https://github.com/overextended/ox_lib
